@@ -205,3 +205,39 @@ FUTURE_DS_01/
 │
 └── images/
     └── dashboard.png
+```
+
+## 🎓 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+Data cleaning and preparation
+Exploratory data analysis
+KPI analysis
+Business intelligence
+Data visualization
+Power BI dashboard development
+Business storytelling
+Insight generation
+Data-driven recommendations
+GitHub project documentation
+
+---
+
+## 📌 Internship Task
+
+Future Interns – Data Science & Analytics Internship
+
+Task 1: Business Sales Performance Analytics
+
+The task focused on analyzing sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.
+
+---
+
+## 👤 Author
+
+Koketso Chantell Monyethabene
+
+Data Science & Analytics Intern
+
+
